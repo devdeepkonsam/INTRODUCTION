@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEVDEEPSINGHA.
-- 👀 I’m interested in  📱Artifical Intelligence , 🔐BlockchainDevelopment , 🤖 CyberSecurity
-- 🌱 I’m currently learning JavaDsa 
+- 👀 I’m interested in  📱Artifical Intelligence , 🏳️Webdevelopment , 🤖 CyberSecurity
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to start on BeginnerLevel OpenSource Projects
 - 📫 How to reach me Twitter -- https://twitter.com/DevdeepSingha
 
